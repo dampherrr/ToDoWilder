@@ -1,4 +1,4 @@
-<img src="todowilderlogo.png" alt="Logo" width="100%">
+<img src="./frontend/assets/logo/todowilderlogo.png" alt="Logo" width="100%">
 
 # 🗒️✔️ To Do Wilder 🖊️🗃️
 
@@ -16,28 +16,12 @@ Dans le cadre du Projet 1 du bootcamp de la Wild Code School pour devenir dével
 1. Clonez le dépôt :
 
    ```sh
-   git clone git@github.com:???
+   git clone git@github.com:git@github.com:dampherrr/ToDoWilder.git
    ```
 
 ## 🛠️ Utilisation
 
-Ouvrez votre navigateur et accédez à `http://localhost:???`.
-
-## 🖼️ Design
-
-- [Fichier Figma <br><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" alt="Figma" width="100" height="100">
-](???)
-
-- [??? <br><img src="???" alt="Screen1" height="100">](???)
-
-- [??? <br><img src="???" height="100">](???)
-
-## 📂 Structure du projet
-
-```java
-???
-
-```
+Ouvrez votre navigateur et accédez à `http://127.0.0.1:3000/frontend/index.html`.
 
 ## ✍ Créateurs
 
